@@ -48,7 +48,7 @@ int main () {
 
     srand(time(NULL));
 
-    cout << "********** Welcome to MyWordle! **********" << endl << endl;
+    cout << "********** Welcome to mottrdle! **********" << endl << endl;
     cout << "This works exactly like normal Wordle, but with one key difference:" << endl << endl;
     cout << "Letters that are not in the same position BUT are in the word can be" << endl;
     cout << "highlighted more than once. That is, if your guess has two L's, but" << endl;
